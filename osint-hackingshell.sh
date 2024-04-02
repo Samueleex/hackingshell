@@ -37,7 +37,7 @@ git clone https://github.com/Samueleex/hashcracker
 echo "installazione di TgTools (by Samueleex)..."
 git clone https://github.com/Samueleex/TgTools
 cd TgTools
-chmod +x * && python3 setup.py
+chmod +x *
 cd
 cd hackingshell
 echo "installazione di shodan..."
