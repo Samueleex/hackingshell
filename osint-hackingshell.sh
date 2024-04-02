@@ -1,11 +1,11 @@
 sudo apt install git -y
 clear
-echo "Questo è uno script bash che installa dei tools utili per l'OSINT su Google Shell!"
+echo "Questo Ã¨ uno script bash che installa dei tools utili per l'OSINT su Google Shell!"
 sleep 2
 echo '   '
 echo '   '
 echo '   '
-echo '    )  (   (       )                              
+echo '    )  (   (       )                              '
 echo ' ( /(  )\ ))\ ) ( /(   *   )      )         (     '
 echo ' )\())(()/(()/( )\())` )  /(   ( /(         )\    '
 echo '((_)\  /(_))(_)|(_)\  ( )(_))  )\())(    ( ((_|   '
