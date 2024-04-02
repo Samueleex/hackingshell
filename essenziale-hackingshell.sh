@@ -58,7 +58,7 @@ echo ' )\()) )\      )\   )\()|()/( )\()))\ )    '
 echo '((_)((((_)(  (((_)|((_)\ /(_)|(_)\(()/(    '
 echo ' _((_)\ _ )\ )\___|_ ((_|_))  _((_)/(_))_  '
 echo '| || (_)_\(_|(/ __| |/ /|_ _|| \| (_)) __| '
-echo '| __ |/ _ \  | (__  ' <  | | | .` | | (_ | '
+echo '| __ |/ _ \  | (__   <  | | | . | | (_ |   '
 echo '|(||_/_/ )_\  \(__|_(\_\|___||_|\_|  \___| '
 echo ' )\ ) ( /(     )\ ) )\ )                   '
 echo '(()/( )\())(  (()/((()/(                   '
@@ -72,7 +72,7 @@ sleep 1
 echo "Benvenuto nella Google HackingShell!"
 echo "Ora puoi hackerare da qualsiasi dispositivo usando il tuo browser!!!"
 echo "Per l'ssh dovrai avviarlo in una nuova shell: ssh (codice)"
-echo "Il tempo di utilizzo è di 50 ore a settimana!"
+echo "Il tempo di utilizzo Ã¨ di 50 ore a settimana!"
 echo "- Samueleex"
 sleep 15
 clear
